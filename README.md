@@ -1,4 +1,7 @@
-# Guide to delete account
+# Guide to delete a SoftINFy app account
+
+## Warning!
+This will permanently delete all the user data, including the history of quizes answered.
 
 ### 1. Go to the options page in the right bottom corner.
 
@@ -11,3 +14,4 @@
 ### 3. Tap on "Sim". You will be redirected to the login page.
 
 ![Captura de tela 2025-05-19 141639](https://github.com/user-attachments/assets/f2c5d2c3-1b64-420f-a647-a4d71c056375)
+
